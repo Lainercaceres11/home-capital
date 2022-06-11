@@ -1,0 +1,25 @@
+.header{
+    width: 360px;
+    height: 72px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.header-off{
+    width: 8px;
+}
+
+.img-header{
+    margin-left: 80px;
+}
+
+.icon-next{
+    width: 24px;
+    display: none;
+}
+
+
+
+
+

@@ -1,0 +1,59 @@
+.portafolios{
+    width: 328px;
+    height: 104px;
+    padding-top: 15px;
+    display: flex;
+    gap: 10px;
+    margin-left: 15px;
+
+}
+
+.rect{
+    width: 104px;
+    height: 104px;
+    background-color: #3D88E2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon{
+    text-align: center;
+    width: 40px;  
+}
+
+.icon-next{
+    width: 24px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.rect-second{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+}
+
+.p_loan{
+    color: #000000;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.amount{
+    color: #3D88E2;
+    font-size: 12px;
+}
+
+.number{
+    color: #1058C1;
+    font-size: 16px;
+}
+
+.icon_two{
+    padding-left: 10px;
+}
+
+
+

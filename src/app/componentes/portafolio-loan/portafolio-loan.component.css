@@ -1,0 +1,112 @@
+
+
+.container{
+    width: 320px;
+    height: 132px;
+    margin-top: 28px;
+}
+
+.info{
+    margin-top: 10px;
+}
+
+.amount_date{
+    display: flex;
+    gap: 70px;
+    padding-left: 30px;
+}
+
+.text-portafolio{
+    color: #012754;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 30px;
+}
+
+.text_amount_date{
+    color: #3D88E2;
+    font-size: 12px;
+    padding-top: 8px;
+}
+
+.number{
+    display: flex;
+    gap: 10px;
+}
+
+.number-date{
+    color: #012754;
+    padding-top: 4px;
+}
+
+.monthly{
+    color: #3D88E2;
+    font-size: 12px;
+    padding-top: 4px;
+}
+
+.number-end{
+    color: #012754;
+    font-size: 16px;
+    padding-top: 4px;
+}
+
+.number_icon{
+    display: flex;
+    gap: 25px;
+    margin-left: 40px;
+
+}
+
+.icon{
+    width: 28px;
+}
+
+hr{
+    width: 80%;
+    background-color: #98a0aa;
+}
+
+
+.rectangulo{
+    width: 8px;
+    height: 132px;
+    background-color: #3D88E2;
+}
+
+
+.productos{
+    width: 360px;
+    height: 56px;
+    background-color: #3D88E2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 184px;
+    left: 0px;
+}
+
+.productos_text{
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.line{
+    top: 176px;
+    left: 10px;
+    width: 8px;
+    height: 132px;
+    background-color: #3D88E2;
+    position: absolute;
+}
+
+.icon-return{
+    width: 24px;
+    position: relative;
+    bottom: 48px;
+    left: 10px;
+}
+
+
+
+

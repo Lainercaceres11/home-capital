@@ -1,0 +1,16 @@
+.welcome-container{
+    width: 350px;
+}
+
+.welcome_title{
+    color: #1058C1;
+    text-align: center;
+    font-weight: bold;
+    display: block;
+}
+
+.welcome_text{
+    font-size: 10px;
+    text-align: center;
+    display: block;
+}

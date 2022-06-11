@@ -1,0 +1,16 @@
+.productos{
+    width: 360px;
+    height: 56px;
+    background-color: #3D88E2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 184px;
+    left: 0px;
+    margin-top: 20px;
+}
+
+.productos_text{
+    color: #FFFFFF;
+    text-transform: uppercase;
+}

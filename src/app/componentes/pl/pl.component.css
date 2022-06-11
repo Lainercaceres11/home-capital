@@ -1,0 +1,92 @@
+.contenedor{
+    width: 328px;
+    height: 88px;
+    margin-top: 20px;
+    margin-left: 15px;
+    display: flex;
+}
+
+.line{
+    top: 156px;
+    left: 16px;
+    width: 8px;
+    height: 88px;
+    background-color: #3D88E2;
+}
+
+.layout{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   margin-left: 30px;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25px;
+}
+
+.number{
+    font-size: 24px;
+    color: #012754;
+  
+}
+
+.text_amount{
+    color: #3D88E2;
+    font-size: 20px;
+    padding-top: 6px;
+}
+
+.img-icon{
+    width: 36px;
+}
+
+.transaction{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 80px;
+    margin-left: 20px;
+}
+
+
+.btn-transaction{
+    background-color: #3D88E2;
+    color: white;
+    width: 328px;
+    height: 48px;
+    border-radius: 20px solid blue;
+    border-color: #3D88E2;
+}
+
+
+.next_icon{
+    position: relative;
+    right: 35px;
+}
+
+.productos{
+    width: 360px;
+    height: 56px;
+    background-color: #3D88E2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 184px;
+    left: 0px;
+}
+
+.productos_text{
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.icon-return{
+    width: 24px;
+    position: relative;
+    bottom: 48px;
+    left: 10px;
+}
